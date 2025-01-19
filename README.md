@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lehlogonolo Maahlo
+- 👋 Hi, I’m @Lehlogonolo Maahlo from Johannesburg.
 - 👀 I’m interested in web development, coding innovation, collaborating on projects and tech entrepreneurship.
-- 🌱 I’m currently learning coding at SheCodes.
+- 🌱 I’m currently learning coding and web development at SheCodes.I have strong foundation in HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate with other students and professionals interested in the web development and innovation, and also recruiters and hiring managers in the tech industry
 - 📫 How to reach me. my email is LehlogonoloMaahlo0@gmail.com
 - 😄 Pronouns: ...
